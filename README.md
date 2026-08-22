@@ -28,8 +28,7 @@ The project uses IPL match and ball-by-ball delivery data.
 
  Dashboard Preview
 
-![IPL Dashboard](screenshots/ipl_dashboard_screenshot.png)
-
+![IPL Dashboard Screenshot](ipl_dashboard_screenshot.png)
  Data Cleaning
 
 The raw data was cleaned and prepared before analysis.
