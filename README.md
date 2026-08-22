@@ -26,6 +26,10 @@ The project uses IPL match and ball-by-ball delivery data.
 * `matches.csv` – Contains match-level information such as season, teams, venue, winner, and match result.
 * `deliveries.csv` – Contains ball-by-ball information including batsmen, bowlers, runs, wickets, and deliveries.
 
+ Dashboard Preview
+
+![IPL Dashboard](screenshots/ipl_dashboard_screenshot.png)
+
  Data Cleaning
 
 The raw data was cleaned and prepared before analysis.
